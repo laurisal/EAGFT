@@ -5,4 +5,13 @@
   <artifactId>eajson</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>eajson</name>
+  
+  <dependencies> 
+  		<dependency>
+			<groupId>org.sparx</groupId>
+			<artifactId>ea-api</artifactId>
+			<version>9.0.9</version>
+		</dependency>
+  </dependencies>
+  
 </project>
